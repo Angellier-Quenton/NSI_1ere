@@ -1,6 +1,0 @@
-#!/bin/bash
-
-set -ex
-rm -rf *.ipynb
-mkdir NSITravail
-
