@@ -6,4 +6,4 @@ mkdir NSITravail
 
 
 # Import the workspace into JupyterLab
-# jupyter lab workspaces import binder/workspace.json
+jupyter lab workspaces import binder/workspace.json
