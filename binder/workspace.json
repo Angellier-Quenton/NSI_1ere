@@ -1,1 +1,25 @@
-{"data":{"layout-restorer:data":{"main":{"dock":{"type":"tab-area","currentIndex":0,"widgets":["terminal:1"]},"mode":"multiple-document","current":"terminal:1"},"left":{"collapsed":true,"widgets":["running-sessions","command-palette","tab-manager"]},"right":{"collapsed":true,"widgets":[]}},"terminal:1":{"data":{"name":"1"}},"file-browser-filebrowser:cwd":{"path":"NSITravail"}},"metadata":{"id":"/lab"}}
+{
+    "data":
+    {
+        "layout-restorer:data":
+        {
+            "main":
+            {
+                "dock":
+                {
+                    "type":"tab-area",
+                    "currentIndex":0,
+                    "widgets":["notebook:Tp_shell.ipynb","terminal:1"]
+                },
+                "mode":"multiple-document",
+                "current":"notebook:Tp_shell.ipynb"
+            },
+            "left":{"collapsed":true,"widgets":["filebrowser","running-sessions","command-palette","tab-manager"]},
+            "right":{"collapsed":true,"widgets":[]}
+        },
+        "terminal:1":{"data":{"name":"1"}},
+        "notebook:Tp_shell.ipynb":{"data":{"path":"Tp_shell.ipynb","factory":"Notebook"}}
+    },
+    "metadata":{"id":"/lab"}
+}
+
